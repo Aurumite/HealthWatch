@@ -1,0 +1,20 @@
+--------------- Rebuild Started: 01/26/2017 21:11:16 Project: main.c, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -I. -IGenerated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_493\Debug/main.lst -g -D DEBUG -Wall -ffunction-sections -O0 -ffat-lto-objects -c main.c -o .\CortexM0\ARM_GCC_493\Debug\main.o
+main.c: In function 'sendNotification':
+main.c:94:21: error: invalid operands to binary & (have 'float' and 'int')
+     temp[0] = value & 0xFF:
+                     ^
+main.c:94:27: error: expected ';' before ':' token
+     temp[0] = value & 0xFF:
+                           ^
+main.c:98:21: error: invalid operands to binary >> (have 'float' and 'int')
+     temp[2] = (value>>16) & 0xFF;
+                     ^
+main.c:100:21: error: invalid operands to binary >> (have 'float' and 'int')
+     temp[3] = (value>>24) & 0xFF;
+                     ^
+main.c:91:11: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+     uint8 temp[4];
+           ^
+The command 'arm-none-eabi-gcc.exe' failed with exit code '1'.
+--------------- Rebuild Failed: 01/26/2017 21:11:16 ---------------

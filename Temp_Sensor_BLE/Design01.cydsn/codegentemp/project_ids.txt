@@ -1,0 +1,5 @@
+C:\Users\Davit\Documents\Workspace01\Design01.cydsn\Design01.cyprj|5ffb95ca-c734-4a59-8190-9c5d8fc097e6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|95d04b74-1e37-41ae-9159-067693ac21a0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|60d655b7-81a9-4372-b2de-286aa449293d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4212e753-e6ab-46be-b342-63ab6c3b5542
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|753287bf-3c29-49ca-b42d-288ffe6822ec
